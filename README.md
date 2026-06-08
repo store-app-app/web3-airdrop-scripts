@@ -94,8 +94,8 @@
 
 本仓库是 Web3 资源矩阵的子节点。探索更多硬核领域，请访问我们的其他开源阵地：
 
-* 🌐 **[核心主阵地] 综合 Web3 导航矩阵**：[Awesome-Web3-Matrix](https://github.com/你的账号/Awesome-Web3-Matrix)
-* 🤖 **[衍生阵地 1] 加密套利与高频量化机器人**：[awesome-crypto-arbitrage-bots](https://github.com/你的账号/awesome-crypto-arbitrage-bots)
-* 🕵️ **[衍生阵地 3] 巨鲸追踪与链上数据挖掘**：[onchain-data-trackers](https://github.com/你的账号/onchain-data-trackers)
+* 🌐 **[核心主阵地] 综合 Web3 导航矩阵**：[Awesome-Web3-Matrix](https://github.com/store-app-app/Awesome-Web3-Matrix)
+* 🤖 **[衍生阵地 1] 加密套利与高频量化机器人**：[awesome-crypto-arbitrage-bots](https://github.com/store-app-app/awesome-crypto-arbitrage-bots)
+* 🕵️ **[衍生阵地 3] 巨鲸追踪与链上数据挖掘**：[onchain-data-trackers](https://github.com/store-app-app/onchain-data-trackers)
 
 **获取底层防女巫指纹隔离配置与脚本源码**：[www.usdtbi.com](https://www.usdtbi.com)
